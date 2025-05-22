@@ -24,13 +24,14 @@ p {
 
 /* 🌿 Florales Menü */
 nav {
-  background: url('https://www.transparenttextures.com/patterns/floral.png');
+  background-image: url('floral-ranken.png');
   background-color: #F4E8FB;
   background-blend-mode: overlay;
+  background-size: contain;
   border-bottom: 2px solid #A96FCC;
   padding: 1rem 0;
-  margin-bottom: 2rem;
 }
+
 
 nav ul {
   list-style: none;
