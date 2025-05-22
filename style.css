@@ -13,6 +13,7 @@ h1, h2, h3 {
   font-family: 'Helvetica Neue', sans-serif;
   margin-bottom: 1rem;
   line-height: 1.3;
+  text-align: center;
 }
 
 main {
